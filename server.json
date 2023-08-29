@@ -1,0 +1,20 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "description": "Desenvolvimento de site",
+            "type": "income",
+            "category": "Venda",
+            "price": 14000,
+            "createdAt": "2023-08-28T13:41:08.231Z"
+        },
+        {
+            "id": 2,
+            "description": "X A Moda do Deci",
+            "type": "outcome",
+            "category": "Fastfood",
+            "price": 22,
+            "createdAt": "2023-08-28T13:20:08.231Z"
+        }
+    ]
+}
